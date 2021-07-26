@@ -1,6 +1,11 @@
 # QlusterPy
 A python Tensorflow GPU version of Quantum Clustering algorithm .
 
+
+## Codelog
+
+27th July 2021 : Uploaded non-commented version of TFM code.
+
 ## References
 
 - __Probabistic Quantum Clustering__ Raúl V. Casaña-Eslava, Paulo J.G. Lisboa, Sandra Ortega-Martorell, Ian H. Jarman, José D. Martín-Guerrero https://doi.org/10.1016/j.knosys.2020.105567 
