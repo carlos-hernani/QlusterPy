@@ -5,6 +5,7 @@ A python Tensorflow GPU version of Quantum Clustering algorithm .
 ## Codelog
 
 27th July 2021 : Uploaded non-commented version of TFM code.
+8th September 2021: Demo @ https://colab.research.google.com/drive/1Hs9EtF57qJtLeb4RUDwemYis232dYJ_f?usp=sharing
 
 ## References
 
